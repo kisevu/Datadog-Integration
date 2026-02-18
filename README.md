@@ -60,4 +60,12 @@ Logs → service:Datadog-integration (request logs)
 ✅ Full visibility: Host → Container → Application  <br/>
 
 
+![Provisioning](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/provisioning.png)
+![Container running](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/visible-container-running.png)
+![Catalogue](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/catalogue.png)
+![Detected Agent](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/detected-agent.png)
+![Endpoints](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/endpoints.png)
+![Error](https://github.com/kisevu/Datadog-Integration/blob/main/src/main/resources/images/endpoint-error-metrics.png)
+
+
 
